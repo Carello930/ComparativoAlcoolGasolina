@@ -1,0 +1,2 @@
+rootProject.name='Comparativo Alcool ou Gasolina'
+include ':app'
